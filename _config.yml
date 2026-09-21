@@ -1,0 +1,8 @@
+title: Verith
+description: Apps for Atlassian Confluence Cloud
+theme: jekyll-theme-primer
+url: https://verith.dev
+
+# Not part of the published site
+exclude:
+  - README.md
